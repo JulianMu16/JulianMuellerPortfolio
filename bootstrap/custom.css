@@ -1,0 +1,21 @@
+.profile-box {
+    background-color: #BCBCBC;
+}
+
+.profile {
+    margin-top: 85px;
+    margin-bottom: 85px;
+}
+
+.profile-text {
+    display: inline-block;
+    margin-left: 12%;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.profle-textbox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
